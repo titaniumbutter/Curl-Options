@@ -1,0 +1,9 @@
+1. -K, --config <file> Read config from a file
+
+2. -E, --cert <certificate[:password]> Client certificate file and password
+
+3. -#, --progress-bar  Display transfer progress as a bar
+
+4. -Q, --quote         Send command(s) to server before transfer
+
+5. -a, --append        Append to target file when uploading
